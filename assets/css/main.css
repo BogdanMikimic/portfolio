@@ -241,6 +241,11 @@ input, select, textarea {
 		text-align: right;
 	}
 
+	.span_orange_bold {
+		color: #f16f10;
+		font-weight: bold;
+	}
+
 /* Container */
 
 	.container {
